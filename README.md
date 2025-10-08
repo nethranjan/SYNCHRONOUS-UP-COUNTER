@@ -44,3 +44,5 @@ Developed by: RegisterNumber:
 **TRUTH TABLE**
 
 **RESULTS**
+<img width="1919" height="890" alt="Screenshot 2025-10-08 143739" src="https://github.com/user-attachments/assets/21fb6c56-df49-47c0-aac6-5a53ffe8b6bb" />
+<img width="1880" height="410" alt="Screenshot 2025-10-08 150725" src="https://github.com/user-attachments/assets/1b11f47d-fbbd-4856-b557-db8238bef457" />
